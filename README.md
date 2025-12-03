@@ -11,22 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=💻+Python+Enthusiast;🤖+AI+Learner;🌱+Always+Learning+New+Things;🚀+Building+Cool+Projects!" alt="Animated Tagline"/>
 </h3>
 
----
-
-<p align="center">
-  <a href="https://github.com/piyushkadam96k">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:kadamamit462@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/piyushkadam96k">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧠 About Me  
 - 💡 Passionate about learning Python, AI, and Full-Stack Development  
 - 🧩 Currently exploring Flask, APIs, and AI projects  
@@ -45,16 +29,13 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-
+##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkadam96k&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkadam96k&theme=tokyonight" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkadam96k&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkadam96k&theme=github_dark"/>
 </p>
 
 ---
+
 
 ## 🐍 Watch my contribution graph eat the snake!
 <p align="center">
@@ -72,6 +53,40 @@
   <img src="https://komarev.com/ghpvc/?username=piyushkadam96k&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=600&size=24&duration=5000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=800&lines=Agent+K9+reporting+for+duty...;Code+never+sleeps+%F0%9F%92%BB;Always+building.+Always+hacking." />
+</p>
+
+</div>
+
 <h3 align="center">⭐ Show some love by starring my repositories!</h3>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 📬 Contact Me
+
+<p align="center">
+
+  <!-- GitHub -->
+  <a href="https://github.com/piyushkadam96k">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kadamamit462@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/K9agentonduty">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+</p>
+
