@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=💻+Python+Enthusiast;🤖+AI+Learner;🌱+Always+Learning+New+Things;🚀+Building+Cool+Projects!" alt="Animated Tagline"/>
 </h3>
 
-## 🧠 About Me  
+## 🧠 About Me:  
 - 💡 Passionate about learning Python, AI, and Full-Stack Development  
 - 🧩 Currently exploring Flask, APIs, and AI projects  
 - 🎯 Goal: Build smart AI tools and creative applications  
