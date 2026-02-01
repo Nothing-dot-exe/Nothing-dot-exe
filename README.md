@@ -1,6 +1,5 @@
 <!-- ✨ Animated GitHub Profile README for Amit Kadam  -->
 
-https://amitkadam.netlify.app
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Kadam!;💻+Python+Enthusiast;🤖+AI+Learner;🌱+Always+Learning+New+Things" alt="Typing Animation" />
