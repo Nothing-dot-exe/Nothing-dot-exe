@@ -70,23 +70,3 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## 📬 Contact Me
-
-<p align="center">
-
-  <!-- GitHub -->
-  <a href="https://github.com/piyushkadam96k">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:kadamamit462@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/K9agentonduty">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-</p>
